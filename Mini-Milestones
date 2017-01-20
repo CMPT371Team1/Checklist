@@ -9,3 +9,35 @@ tools (e.g., for mocking, GUI testing, logging, persistence, etc.) "
 - Requirements ready
 - Assign roles to each of the presenters
 - Prepare Powerpoint
+
+
+
+---
+Requirements that Tian put together:
+User Stories
+For listing User:
+1. The user can log in as a listing user
+2. The user can see all his properties
+3. The user can add his property
+4. The user can remove his property
+5. The user can edit his property including editing the description, identifying the neiborhood, and uploading pictures
+6. *The user can get pushed notifications about its listed property (eg. ## people have it saved to favorates; XX property has been viewed ## times; have price watch on, etc.)
+7. The user can set "viewing schedule" with options (24 hours, immediately..)
+For super admin user:
+1. The user can log in as super admin
+2. The user can see all property listings (in some order)
+3. The user can add new properties for all listing users
+4. The user can edit property info of all listing users
+5. The user can remove any property
+For viewer user:
+1. The user can log in as a viewer user with the option logging in using facebook account
+2. The user can search for a property from the filter
+3. The user can see info of a property (pics, description etc.)
+4. The user can save a property to favorate
+5. The user will receive a prompt of signing up at the first time he save a property into favorate or first time sending a viewing request
+6. The user can put a price watch on the property he saved as favorate
+7. The user can receive a pushed notification per day showing the "hot list", which is a list of three properties selected from the system listings. 
+8.* The host list is gonna be chosen based on whether the listing is new, whether someone has paid for ad, whether it fits with the characteristics of previous searches, whether there was a price change, etc. 
+9. The user can indicate how quickly they’re looking to see it (today, tomorrow, sometime this week). HOW?
+10. The user can type in his/her name, cell phone(if we don’t already have it when he signed up as a viewer user)
+11. The user can click a call button which will send a viewing request to the listing user (push notifications? email?). If the listing user is a realtor, than when the viewing users view request will be sent to one of our Realtor referral partners. HOW?
