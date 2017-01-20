@@ -1,0 +1,11 @@
+This document is used to write up the milestones that must be reached prior to an ID deadline.
+
+#Infrastructure presentation
+"Description of chosen project, process components:
+issue tracking, wiki pages, continuous integration, smoke test
+and status reporting mechanisms, version control structure,
+tools (e.g., for mocking, GUI testing, logging, persistence, etc.) "
+
+- Requirements ready
+- Assign roles to each of the presenters
+- Prepare Powerpoint
