@@ -25,7 +25,7 @@ Come here every couple of days to make sure you are on top of all the things.
 7. Is the code ***finished*** before I push?
 
 ####Test Team:
-1. Have I created a Testing document?
+1. Have I created a Testing plan document?
 2. Have I made test matrix?
 3. Have I made test diagrams?
 4. Am I covering major/many branches in my testing?
@@ -33,9 +33,9 @@ Come here every couple of days to make sure you are on top of all the things.
 6. Bug Report?
 
 ####Risk Officer:
-1. Have I done a scan lately? Scans should be done by Day3 AND Day 10.
+1. Have I done a scan lately? Scans should be done by Day3 AND Day -4.
 2. Have I talked to people in the team and sensed any upcoming risks?
-3. Risk report - When is that due? Am I writing it yet?
+3. Risk report - When is that due (Day -4)? Have I started working on that?
 4. Remember there must be 10 risks identified per ID, with proper mitigation and contingency plans.
 
 ####Build Manager:
