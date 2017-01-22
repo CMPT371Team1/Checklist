@@ -42,12 +42,12 @@ Jobs to be Assigned for ID1 Final Document:
 6. Activity log -> TUSHITA
 
 7. Inspections report -> TUSHITA
-   Report includes minutes from each inspections plus a general paragraph about other reviews being conducted and their frequency
+   - Report includes minutes from each inspections plus a general paragraph about other reviews being conducted and their frequency
    
 8. Client Meetings -> TUSHITA
 
 9. Testing Plan -> JEREMY AND TEST TEAM 
-   Testing plan includes - test matrix, system flow diagrams for planning tests, and a gantt or CPM diagram for coming activity
+   - Testing plan includes test matrix, system flow diagrams for planning tests, and a gantt or CPM diagram for coming activity
 
 10. Testing results + defect reports -> JEREMY AND TEST TEAM
 
@@ -56,8 +56,9 @@ Jobs to be Assigned for ID1 Final Document:
     
 
 QUESTIONS:    
-- Do we need anything more for this section? We will do further use-cases, diagrams, etc.
-  for the ID2 Doc, so anything more here would just be repeated in the ID2 Doc.
+- Do we need anything more section 11? We will do use-cases, diagrams, etc.
+  for the ID1 Doc, so anything more here would just be repeated in the ID2 Doc.
+    Asnwer: We can just do a list of requirements for next ID (I asked Osgood)
 
 
 
