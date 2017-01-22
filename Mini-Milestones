@@ -20,7 +20,7 @@ Jobs to be Assigned for ID2 Final Document:
 
 1. Requirements for that ID                     
     - GUIs -> ARIANNE
-    - Use cases -> GAURAV
+    - Use cases -> CHRIS MAY
     - Platform Description -> TUSHITA
 
 2. Design document
@@ -28,7 +28,7 @@ Jobs to be Assigned for ID2 Final Document:
     - Architecture Diagram -> ___________
     - Architecture Description / Defense -> ___________
 
-3. Smoke test status -> JEREMY AND TEST TEAM
+3. Smoke test status -> CHRIS MR AND TEST TEAM
 
 4. Mini milestone list -> ___________
 
@@ -37,12 +37,16 @@ Jobs to be Assigned for ID2 Final Document:
 6. Activity log -> TUSHITA
 
 7. Inspections report -> TUSHITA
-
+   Report includes minutes from each inspections plus a general paragraph about other reviews being conducted and their frequency
+   
 8. Client Meetings -> TUSHITA
 
-9. Testing results + defect reports -> JEREMY AND TEST TEAM
+9. Testing Plan -> JEREMY AND TEST TEAM 
+   Testing plan includes - test matrix, system flow diagrams for planning tests, and a gantt or CPM diagram for coming activity
 
-10. Requirements and planning for next ID
+10. Testing results + defect reports -> JEREMY AND TEST TEAM
+
+11. Requirements and planning for next ID
     - Requirements List for ID3 -> ARIANNE
     
 
