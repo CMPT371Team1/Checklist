@@ -1,18 +1,57 @@
 This document is used to write up the milestones that must be reached prior to an ID deadline.
 
-#Infrastructure presentation
-"Description of chosen project, process components:
-issue tracking, wiki pages, continuous integration, smoke test
-and status reporting mechanisms, version control structure,
-tools (e.g., for mocking, GUI testing, logging, persistence, etc.) "
+INFRASTRUCTURE PRESENTATION:
+- Description of chosen project and process components:
+    - issue tracking
+    - wiki pages 
+    - continuous integration 
+    - smoke test
+    - status reporting mechanisms
+    - version control structure
+    - tools (e.g. for mocking, GUI testing, logging, persistence, etc.)
 
 - Requirements ready
 - Assign roles to each of the presenters
 - Prepare Powerpoint
 
 
+----------------------------------------------------
+Jobs to be Assigned for ID2 Final Document:
 
----
+1. Requirements for that ID                     
+    - GUIs -> ARIANNE
+    - Use cases -> GAURAV
+
+2. Design document
+    - UML Diagrams -> ___________
+    - Architecture Diagram -> ___________
+    - Architecture Description / Defense -> ___________
+
+3. Smoke test status -> JEREMY AND TEST TEAM
+
+4. Mini milestone list -> ___________
+
+5. Risk report -> RYAN 
+
+6. Activity log -> TUSHITA
+
+7. Inspections report -> TUSHITA
+
+8. Client Meetings -> TUSHITA
+
+9. Testing results + defect reports -> JEREMY AND TEST TEM
+
+10. Requirements and planning for next ID
+    - Requirements List for ID3 -> ARIANNE
+    
+
+QUESTIONS:    
+- Do we need anything more for this section? We will do further use-cases, diagrams, etc.
+  for the ID3 Doc, so anything more here would just be repeated in the ID3 Doc.
+
+
+
+----------------------------------------------------
 Requirements that Tian put together:
 User Stories
 For listing User:
