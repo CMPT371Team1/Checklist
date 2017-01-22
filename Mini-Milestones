@@ -2,12 +2,17 @@ This document is used to write up the milestones that must be reached prior to a
 
 INFRASTRUCTURE PRESENTATION:
 - Description of chosen project and process components:
-    - issue tracking
-    - wiki pages 
+    - issue tracking - Trello
+    - wiki pages - Slack
     - continuous integration 
     - smoke test
-    - status reporting mechanisms
-    - version control structure
+    - status reporting mechanisms - automated?
+    - version control structure - github
+    - Things connected to slack - sourcetree (github), trello
+    - Testing framework
+    - Mocking framework
+    - Logging framework
+    - Code coverage framework
     - tools (e.g. for mocking, GUI testing, logging, persistence, etc.)
 
 - Requirements ready
@@ -16,7 +21,7 @@ INFRASTRUCTURE PRESENTATION:
 
 
 ----------------------------------------------------
-Jobs to be Assigned for ID2 Final Document:
+Jobs to be Assigned for ID1 Final Document:
 
 1. Requirements for that ID                     
     - GUIs -> ARIANNE
@@ -47,12 +52,12 @@ Jobs to be Assigned for ID2 Final Document:
 10. Testing results + defect reports -> JEREMY AND TEST TEAM
 
 11. Requirements and planning for next ID
-    - Requirements List for ID3 -> ARIANNE
+    - Requirements List for ID2 -> ARIANNE
     
 
 QUESTIONS:    
 - Do we need anything more for this section? We will do further use-cases, diagrams, etc.
-  for the ID3 Doc, so anything more here would just be repeated in the ID3 Doc.
+  for the ID2 Doc, so anything more here would just be repeated in the ID2 Doc.
 
 
 
